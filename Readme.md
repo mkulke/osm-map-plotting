@@ -27,4 +27,4 @@ jupyter notebook osm-map-plotting.ipynb
 
 ## Example
 
-![Lourdes](images/lourdes.png)
+![Lourdes](images/lourdes.jpg)
